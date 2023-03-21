@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\public\\assets",
+    "\\public\\assets\\img",
+    "\\public\\assets\\js",
+    "\\public\\assets\\vendor\\bootstrap\\css",
+    "\\resources",
+    "\\resources\\views",
+    "\\routes"
+  ],
+  "SelectedNode": "\\public\\assets\\img\\profile-img.jpg",
+  "PreviewInSolutionExplorer": false
+}
